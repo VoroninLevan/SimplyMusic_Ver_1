@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //BrownGold
+    <color name="colorPrimary">#8D6E63</color>
+    <color name="colorPrimaryDark">#4E342E</color>
+    <color name="colorAccent">#FFC400</color>
+    //Background
+    <color name="background">#EFEBE9</color>
+    <color name="backgroundPlayer">#A1887F</color>
+    //Text
+    <color name="textPlayer">#EFEBE9</color>
+    <color name="textList">#212121</color>
+
+</resources>
